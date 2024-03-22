@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeeshan Haider
-- 👀 I’m interested in conding with c++.
-- 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on mobile app devolopment.
+- 👀 I’m interested in coding with python.
+- 🌱 I’m full-time Data Engineer at NCAI.
+- 💞️ I’m looking to collaborate on AI Projects.
 
 <!---
 zeehydr/zeehydr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
