@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeeshan Haider
 - 👀 I’m interested in coding with Python.
-- 🌱 I’m full-time Data Engineer at NCAI.
+- 🌱 I’m full-time Software Developer at NCAI.
 - 💞️ I’m looking to collaborate on AI Projects.
 
 <!---
